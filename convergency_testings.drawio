@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T18:03:45.015Z" agent="5.0 (Macintosh)" etag="oPpuktWEwkJe_WS7j2Gd" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T18:05:21.367Z" agent="5.0 (Macintosh)" etag="dfsROiwE1gWyIsFCJZbW" version="17.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="982" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-17" value="&lt;div&gt;Is a&lt;sub&gt;n&lt;/sub&gt;≤1/n&lt;sup&gt;c&lt;/sup&gt;, 0&amp;lt;c&amp;lt;1 or a&lt;sub&gt;n&lt;/sub&gt;≤ r&lt;sup&gt;n&lt;/sup&gt;, , r&amp;lt;1?&lt;/div&gt;&lt;div&gt;OR a&lt;sub&gt;n&lt;/sub&gt; &amp;gt; 1/n&lt;sup&gt;c&lt;/sup&gt;, c≥1?&lt;sup&gt; ✝&lt;/sup&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-17" value="&lt;div&gt;Is a&lt;sub&gt;n&lt;/sub&gt;≤1/n&lt;sup&gt;c&lt;/sup&gt;, 0&amp;lt;c&amp;lt;1 or a&lt;sub&gt;n&lt;/sub&gt;≤ r&lt;sup&gt;n&lt;/sup&gt;, r&amp;lt;1?&lt;/div&gt;&lt;div&gt;OR a&lt;sub&gt;n&lt;/sub&gt; &amp;gt; 1/n&lt;sup&gt;c&lt;/sup&gt;, c≥1?&lt;sup&gt; ✝&lt;/sup&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-35" target="axs2mokNIjlGmTJOTkwW-50">
@@ -144,7 +144,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-35" value="&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(1/n&lt;sup&gt;c&lt;/sup&gt;) = constant?&lt;/div&gt;&lt;div&gt;OR&lt;br&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(r&lt;sup&gt;n&lt;/sup&gt;) = constant?&lt;sup&gt;✝&lt;/sup&gt;*&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-35" value="&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(1/n&lt;sup&gt;c&lt;/sup&gt;) = constant?&lt;/div&gt;&lt;div&gt;OR&lt;br&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(r&lt;sup&gt;n&lt;/sup&gt;) = constant?*&lt;sup&gt;✝&lt;/sup&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="600" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-38" target="axs2mokNIjlGmTJOTkwW-35">
