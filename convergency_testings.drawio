@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T17:49:28.882Z" agent="5.0 (Macintosh)" etag="dYqqgofDC5Fkr30j2vyj" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T18:03:45.015Z" agent="5.0 (Macintosh)" etag="oPpuktWEwkJe_WS7j2Gd" version="17.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="982" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="axs2mokNIjlGmTJOTkwW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Test the convergency of a given serie Σa&lt;sub&gt;n&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Test the convergency of a given serie Σa&lt;sub&gt;n&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10">
@@ -33,10 +33,10 @@
         <mxCell id="axs2mokNIjlGmTJOTkwW-70" value="&lt;div&gt;No&lt;/div&gt;&lt;div&gt;e.g. ((-1)&lt;sup&gt;n&lt;/sup&gt; n&lt;sup&gt;4&lt;/sup&gt;)/(n&lt;sup&gt;3&lt;/sup&gt;+2)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=classicThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="When n→∞, does a_n→0?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="When n→∞, does a_n→0?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="116" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Divergent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Divergent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="136" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="axs2mokNIjlGmTJOTkwW-6">
@@ -55,7 +55,7 @@
             <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Is a&lt;sub&gt;n&lt;/sub&gt; alternating?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Is a&lt;sub&gt;n&lt;/sub&gt; alternating?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="240" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="axs2mokNIjlGmTJOTkwW-12">
@@ -71,7 +71,7 @@
             <mxPoint x="24" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="At least conditionally convergent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="At least conditionally convergent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-7" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-6" target="WIyWlLk6GJQsqaUBKTNV-12">
@@ -89,7 +89,7 @@
             <mxPoint x="18" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-6" value="Is b&lt;sub&gt;n&lt;/sub&gt; decreasing and convergent to 0?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-6" value="Is b&lt;sub&gt;n&lt;/sub&gt; decreasing and convergent to 0?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="240" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-12" target="axs2mokNIjlGmTJOTkwW-17">
@@ -108,7 +108,7 @@
             <mxPoint x="-72" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-12" value="&lt;div&gt;Is numerator ≤&amp;nbsp; constant&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt; numerator &amp;amp;denominator both polynomials of n?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-12" value="&lt;div&gt;Is numerator ≤&amp;nbsp; constant&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt; numerator &amp;amp;denominator both polynomials of n?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="370" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-17" target="axs2mokNIjlGmTJOTkwW-35">
@@ -124,7 +124,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-17" value="&lt;div&gt;Is a&lt;sub&gt;n&lt;/sub&gt;≤1/n&lt;sup&gt;c&lt;/sup&gt;, 0&amp;lt;c&amp;lt;1 or a&lt;sub&gt;n&lt;/sub&gt;≤ r&lt;sup&gt;n&lt;/sup&gt;, , r&amp;lt;1?&lt;/div&gt;&lt;div&gt;OR a&lt;sub&gt;n&lt;/sub&gt; &amp;gt; 1/n&lt;sup&gt;c&lt;/sup&gt;, c≥1?&lt;sup&gt; ✝&lt;/sup&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-17" value="&lt;div&gt;Is a&lt;sub&gt;n&lt;/sub&gt;≤1/n&lt;sup&gt;c&lt;/sup&gt;, 0&amp;lt;c&amp;lt;1 or a&lt;sub&gt;n&lt;/sub&gt;≤ r&lt;sup&gt;n&lt;/sup&gt;, , r&amp;lt;1?&lt;/div&gt;&lt;div&gt;OR a&lt;sub&gt;n&lt;/sub&gt; &amp;gt; 1/n&lt;sup&gt;c&lt;/sup&gt;, c≥1?&lt;sup&gt; ✝&lt;/sup&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-35" target="axs2mokNIjlGmTJOTkwW-50">
@@ -144,7 +144,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-35" value="&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(1/n&lt;sup&gt;c&lt;/sup&gt;) = constant?&lt;/div&gt;&lt;div&gt;OR&lt;br&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(r&lt;sup&gt;n&lt;/sup&gt;) = constant?&lt;sup&gt;✝&lt;/sup&gt;*&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-35" value="&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(1/n&lt;sup&gt;c&lt;/sup&gt;) = constant?&lt;/div&gt;&lt;div&gt;OR&lt;br&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;n&lt;/sub&gt;/(r&lt;sup&gt;n&lt;/sup&gt;) = constant?&lt;sup&gt;✝&lt;/sup&gt;*&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="600" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="axs2mokNIjlGmTJOTkwW-38" target="axs2mokNIjlGmTJOTkwW-35">
@@ -165,19 +165,19 @@
             <mxPoint x="-22" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-38" value="&lt;div&gt;|a&lt;sub&gt;n+1&lt;/sub&gt;/a&lt;sub&gt;n&lt;/sub&gt;|&amp;lt;1 or &amp;gt;1?&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt; &lt;sup&gt;n&lt;/sup&gt;√a&lt;sub&gt;n&lt;/sub&gt;&amp;lt;1 or &amp;gt;1?*&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-38" value="&lt;div&gt;|a&lt;sub&gt;n+1&lt;/sub&gt;/a&lt;sub&gt;n&lt;/sub&gt;|&amp;lt;1 or &amp;gt;1?&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt; &lt;sup&gt;n&lt;/sup&gt;√a&lt;sub&gt;n&lt;/sub&gt;&amp;lt;1 or &amp;gt;1?*&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="600" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-50" value="Try integral test or Taylor expansion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-50" value="Try integral test or Taylor expansion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-53" value="Draw conclusion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-53" value="Draw conclusion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-55" value="Draw conclusion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-55" value="Draw conclusion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="axs2mokNIjlGmTJOTkwW-58" value="Draw conclusion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="axs2mokNIjlGmTJOTkwW-58" value="Draw conclusion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="axs2mokNIjlGmTJOTkwW-68" value="&lt;div&gt;* L&#39;Hôpital&#39;s rule may apply in limit comparison and ratio test.&lt;/div&gt;&lt;div&gt;&lt;sup&gt;✝&lt;/sup&gt; In most cases, compare a&lt;sub&gt;n&lt;/sub&gt; to p-series. Sometimes also may compare a&lt;sub&gt;n&lt;/sub&gt; to geometric series.&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
